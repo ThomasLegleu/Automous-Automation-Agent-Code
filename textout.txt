@@ -1,0 +1,2 @@
+  <point name="testPt" public="false">
+    <pFather alias="" name="world" fatherIndex="0" />
